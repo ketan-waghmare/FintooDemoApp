@@ -1,0 +1,3 @@
+include ':spacelib'
+include ':app'
+rootProject.name = "FintooDemoApp"
